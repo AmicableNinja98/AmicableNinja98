@@ -5,4 +5,3 @@ My name is Mario Ruiz, a young software developer who enjoys backend 💻.
 * 📱 Experience with mobile development using Flutter and Kotlin with Jetpack Compose.
 * 🤝 Love working with people and contributing in other projects.
 * 💬 Fluent in Spanish and English.
-* 🏢 Currently on an internship at [ViewNext](https://www.viewnext.com/).
